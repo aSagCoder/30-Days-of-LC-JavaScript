@@ -26,4 +26,12 @@ A repository that serves as an archive for all the solutions submitted by me for
 | 19  | Topic 19 | [Problem 19](link_to_problem_19) | [Solution 19](link_to_solution_19) |
 | 20  | Topic 20 | [Problem 20](link_to_problem_20) | [Solution 20](link_to_solution_20) |
 | 21  | Topic 21 | [Problem 21](link_to_problem_21) | [Solution 21](link_to_solution_21) |
-| 22  | Topic 22 | [Problem 22](link_to_problem_22) | [
+| 22  | Topic 22 | [Problem 22](link_to_problem_22) | [Solution 22](link_to_solution_22) |
+| 23  | Topic 23 | [Problem 23](link_to_problem_23) | [Solution 23](link_to_solution_23) |
+| 24  | Topic 24 | [Problem 24](link_to_problem_24) | [Solution 24](link_to_solution_24) |
+| 25  | Topic 25 | [Problem 25](link_to_problem_25) | [Solution 25](link_to_solution_25) |
+| 26  | Topic 26 | [Problem 26](link_to_problem_26) | [Solution 26](link_to_solution_26) |
+| 27  | Topic 27 | [Problem 27](link_to_problem_27) | [Solution 27](link_to_solution_27) |
+| 28  | Topic 28 | [Problem 28](link_to_problem_28) | [Solution 28](link_to_solution_28) |
+| 29  | Topic 29 | [Problem 29](link_to_problem_29) | [Solution 29](link_to_solution_29) |
+| 30  | Topic 30 | [Problem 30](link_to_problem_30) | [Solution 30](link_to_solution_30) |
